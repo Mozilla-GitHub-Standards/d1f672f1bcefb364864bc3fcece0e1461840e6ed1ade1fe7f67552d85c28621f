@@ -153,6 +153,7 @@ div[role=main] .big-picture .busta {
 }
 .winners li a {
     position: relative;
+    display: block;
 }
 .winners li a .hide {
     position: absolute;
@@ -174,7 +175,7 @@ div[role=main] .big-picture .busta {
 }
 .winners .badge {
     left: -10px;
-    top: 10px;
+    top: -10px;
     background: transparent;
     padding: 0;
     width: auto;
